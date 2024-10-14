@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728744359 source:c:\users\admin\desktop\my projects\sphere calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
